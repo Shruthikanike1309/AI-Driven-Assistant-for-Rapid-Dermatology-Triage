@@ -28,10 +28,11 @@ Optimization: Used Adam/SGD optimizer for model training.
 Loss Function: Applied Categorical Crossentropy for classification.
 
 # Outputs
+Login Screen
 <img width="657" height="353" alt="image" src="https://github.com/user-attachments/assets/5d4e8476-e7a1-4b3b-af80-f50faf949190" />
-                                          Login Screen
 <img width="604" height="374" alt="image" src="https://github.com/user-attachments/assets/be27804d-b50c-4c2d-9fa9-0bb2d16f5c6e" />
+ Predicts Disease name & its Severity
 <img width="686" height="443" alt="image" src="https://github.com/user-attachments/assets/b7eeba57-a319-4bf9-88bd-19981ffa6b11" />
-                                          Predicts Disease name & its Severity
+Precautions
 <img width="608" height="431" alt="image" src="https://github.com/user-attachments/assets/5d4d5e6f-69d2-463a-a7d8-8052b08eb62c" />
-                                          Precautions
+                                         
